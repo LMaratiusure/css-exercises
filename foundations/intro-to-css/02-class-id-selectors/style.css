@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.Odds {
+    background-color: rgb(248, 169, 193);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#Second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.Third {
+    font-size: 24px;
+}
+
+#Fourth {
+    background-color: hsl(109, 91%, 70%);
+    font-weight: bold;
+}
